@@ -26,14 +26,14 @@
     </properties>
 
     <repositories>
-        <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-        <repository>
-            <id>mavenCentral</id>
-            <url>http://central.maven.org/maven2/</url>
-        </repository>
+        <!--<repository>-->
+            <!--<id>jitpack.io</id>-->
+            <!--<url>https://jitpack.io</url>-->
+        <!--</repository>-->
+        <!--<repository>-->
+            <!--<id>mavenCentral</id>-->
+            <!--<url>http://central.maven.org/maven2/</url>-->
+        <!--</repository>-->
     </repositories>
 
     <dependencies>
